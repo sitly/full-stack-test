@@ -1,6 +1,8 @@
 {
   "name": "angular-14-crud-example",
   "version": "0.0.0",
+  "author": "Sitly",
+  "license": "ISC",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
